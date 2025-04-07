@@ -1,0 +1,16 @@
+#idea
+.idea/
+
+#sqlite db folder
+.sqlite3/
+
+# Environments
+.venv
+env/
+venv/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+config.bat
+node_modules
